@@ -1,0 +1,38 @@
+.topHeader{
+    min-width: 100vw;
+}
+
+.topHeaderText{
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navLogo{
+    position: absolute;
+    top: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.sideNavDropdownOption{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.yellowStar{
+    color: yellow;
+}
+
+.whiteStar{
+    background-color: white;
+}
+
+.checkBox{
+    height: 30px;
+    width: 30px;
+}
